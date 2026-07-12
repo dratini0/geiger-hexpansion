@@ -2493,6 +2493,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/cube.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 7.8 7 5)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 		(layer "F.Cu")
@@ -5286,6 +5297,17 @@
 			(uuid "f9f3f3ab-cefc-4b52-b2a6-a26e29db03cf")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/cube.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 8.5 8.5 3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
@@ -6258,6 +6280,17 @@
 			(uuid "af48a8e9-6342-467f-93c5-a7da57d3ab11")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/cube.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 4.5 3.2 2.7)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "geiger:E10_THT"
 		(layer "F.Cu")
