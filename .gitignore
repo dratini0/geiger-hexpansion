@@ -5,6 +5,7 @@
 *.000
 *.bak
 *.bck
+~*.lck
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
@@ -29,3 +30,7 @@ fp-info-cache
 *.csv
 
 gerbers/
+
+# Freecad files
+*.FCBak
+*.stl
